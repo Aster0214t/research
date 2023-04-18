@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <math.h>
 #define HEIGHT 88
 #define WIDTH 99
 typedef struct{
