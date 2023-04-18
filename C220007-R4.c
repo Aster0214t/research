@@ -1,6 +1,6 @@
 #include <stdio.h>
-#define HEIGHT 5
-#define WIDTH 5
+#define HEIGHT 6
+#define WIDTH 6
 typedef struct{
     int board[WIDTH+2][HEIGHT+2];
     int turn;
